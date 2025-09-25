@@ -12,7 +12,6 @@ export function Navbar(): ReactElement {
             height="30"
             className="d-inline-block align-text-top me-2"
           />
-          MyApp
         </NavLink>
 
         <button
